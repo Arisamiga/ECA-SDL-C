@@ -53,9 +53,9 @@ make
 
 * The program will run and display the "109" rule. If you want to change the rule you can add it as the first argument when executing the main.exe file
 ```
-./main.exe 30
+./main.exe 109
 ```
-* The program will display the rule 30
+* The program will display the rule 109
 
 
 ## Code and bug reporting
