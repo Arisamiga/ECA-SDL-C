@@ -4,7 +4,6 @@ A practice project to learn C and SDL by making a Elementary Cellular Automata
 
 <img src="./images/screenshot.PNG">
 
-<br>
 
 >**Note:** This program was primarly made to run on Windows 10 so there is no guarantee that it will run on other operating systems.
 
